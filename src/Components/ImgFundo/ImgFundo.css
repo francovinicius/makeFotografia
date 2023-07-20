@@ -1,0 +1,14 @@
+.img-fundo {
+    position: absolute;
+    top: 5rem;
+    opacity: .7;
+    border-radius: 10rem
+}
+
+@media (min-width:400px) {
+
+    .img-fundo {
+        top: 3rem;
+        width: 23rem;
+    }
+}
