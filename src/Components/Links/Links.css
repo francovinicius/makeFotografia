@@ -43,19 +43,19 @@
   .link-container {
     margin-top: 8rem;
     margin-bottom: 19rem;
+    width: 350px;
   }
 }
 
 @media (min-width:1024px) {
 
   .link-container {
-    margin-top: 1rem;
+    margin-top: 14rem;
     margin-bottom: 19rem;
+    width: 400px;
+
   }
 
-  .link-container {
-    margin-top: 14rem;
-  }
 }
 
 
