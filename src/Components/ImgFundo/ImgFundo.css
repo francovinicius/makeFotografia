@@ -1,7 +1,7 @@
 .img-fundo {
     position: absolute;
     top: 5rem;
-    opacity: .5;
+    opacity: .6;
     border-radius: 10rem
 }
 
@@ -17,6 +17,6 @@
 
     .img-fundo {
         top: 7rem;
-        width: 27rem;
+        width: 20rem;
     }
 }
