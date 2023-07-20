@@ -1,19 +1,26 @@
 .fixar-rodape{
     position: relative;
     bottom: 0;
-    border-top: 1px solid #5f61647a;
+    border-top: 1px solid #86777744;
     width: 100%;
     padding: 1rem 0;
     margin-top: -1rem;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 12px;
 }
 
 span {
-    color: rgba(248, 245, 240, 0.363);
+    color: #867777;
 }
 
 .fixar-rodape a {
     text-decoration: none;
-    color: blanchedalmond;
+    color: #9ca5f3be;
+    font-weight: bold;
+}
+
+@media (min-width: 414px){
+    
 }
 

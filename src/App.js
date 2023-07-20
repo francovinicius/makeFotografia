@@ -18,7 +18,6 @@ function App() {
         </div>
 
         <div className="img-desktop">
-          <img className="img-fluid" src="./assets/img/KemillyII.svg" alt="" />
         </div>
       </div>
       
